@@ -1,5 +1,5 @@
 <h1 aling="center"> conversor-de-monedas </h1>
-![conversor de monedas](https://github.com/user-attachments/assets/dfea122e-e2b6-4a07-9240-90aafb49a5f7)
+
 
 Se realiza un conversor de monedas en Java utilizando el consumo de API. 
 
